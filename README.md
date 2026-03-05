@@ -1,28 +1,27 @@
-Apartment Rental Management System
 
-Software Project Management Course Project
+Apartment Rental Management System
 
  Team Members:
 - Hanan Fh
 - Sali Ahmed
 - Wesam Ms Tomizeh
 - Mohamed Ayman Mohamed Alfarra
+- Hesham Abdullah Saeed Alamoodi
 
 
  Overview:
-The Task Management System is designed to help users create, assign, track, and manage tasks efficiently. 
-The system improves organization and productivity by providing structured task monitoring.
+The Apartment Rental Management System is a software system designed to help property managers manage apartments, tenants, rental contracts, and payments 
 
 
  Project Timeline:
-- Week 1: Project Planning
-- Week 2: System analysis and UML design
-- Week 3:Database design and backend setup
-- Week 4: Backend development (APIs, authentication)
-- Week 5:Frontend design and implementation
-- Week 6: Integration of frontend and backend
-- Week 7: System resting and bug fixing 
-- Week 8:  Project Implementation & Documentation
+- Week 1: Requirement Analysis  & Project Planning
+- Week 2: System Design + UML Diagrams
+- Week 3: Database design 
+- Week 4: Backend development 
+- Week 5: Frontend development
+- Week 6: System Integration
+- Week 7: Testing & Bug Fixing 
+- Week 8: Documentation Finalization
 
 
  Tools Used:
