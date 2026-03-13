@@ -1,5 +1,5 @@
 
-AI Life Manager
+AI Life Manager.
 
  Team Members:
 - Hanan Fh
